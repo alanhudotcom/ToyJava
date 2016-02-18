@@ -1,0 +1,9 @@
+ {       int arg;
+        arg = 10 + 10 ;
+        int a;
+        a = 10 - 2;
+        int b;
+        b = a + arg;
+         b = b - 10;
+         }
+
